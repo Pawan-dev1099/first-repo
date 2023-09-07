@@ -1,3 +1,3 @@
 # demo
 
-exploring git
+exploring git!
